@@ -1,2 +1,2 @@
 # Power-BI-dashboards
-For different dashboards created using Power BI.
+An HR Analytics dashboard created using Power BI to mnitor attrition reasons and factors contributing to the same.
